@@ -1,0 +1,11 @@
+/node_modules
+.DS_Store
+.idea
+/vendor
+build
+.lock
+composer.lock
+/fonts
+.phpunit.result.cache
+.phpunit.cache
+package-lock.json
