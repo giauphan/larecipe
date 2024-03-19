@@ -13,7 +13,7 @@
     
 
 <p align="center">
-<a href="https://github.com/saleem-hadad/larecipe"><img src="https://img.shields.io/packagist/dt/binarytorch/larecipe.svg" alt="License"></a>
+<a href="https://github.com/saleem-hadad/larecipe"><img src="https://img.shields.io/packagist/dt/giauphan/larecipe.svg" alt="License"></a>
 <a title="MadeWithVueJs.com Shield" href="https://madewithvuejs.com/p/larecipe/shield-link"> <img src="https://madewithvuejs.com/storage/repo-shields/1087-shield.svg"/></a>
 <a href="https://github.com/saleem-hadad/larecipe"><img src="https://img.shields.io/github/release/saleem-hadad/larecipe.svg" alt="Release"></a>
 <a href="https://github.com/saleem-hadad/larecipe"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
@@ -31,7 +31,7 @@
 
 ☝️ Install the package via composer.
 
-    composer require binarytorch/larecipe
+    composer require giauphan/larecipe
 
 ✌️ Run the install command.
 
@@ -61,15 +61,15 @@ Get $200 DigitalOcean Credit
 
 ## Official tools and assets support
 
-- [LaRecipe Dark Theme](https://larecipe.saleem.dev/packages/binarytorch/larecipe-dark-theme)
-- [LaRecipe RTL Support](https://larecipe.saleem.dev/packages/binarytorch/larecipe-rtl)
-- [LaRecipe Feedback](https://larecipe.saleem.dev/packages/binarytorch/larecipe-feedback)
-- [LaRecipe Swagger](https://larecipe.saleem.dev/packages/binarytorch/larecipe-swagger)
+- [LaRecipe Dark Theme](https://larecipe.saleem.dev/packages/giauphan/larecipe-dark-theme)
+- [LaRecipe RTL Support](https://larecipe.saleem.dev/packages/giauphan/larecipe-rtl)
+- [LaRecipe Feedback](https://larecipe.saleem.dev/packages/giauphan/larecipe-feedback)
+- [LaRecipe Swagger](https://larecipe.saleem.dev/packages/giauphan/larecipe-swagger)
 
 ## Used by
 
-* [Zino](https://zino.binarytorch.com.my/1.0/installation) - 🤖 Custom Arduino library made for humans.
-* [Blogged](https://blogged.binarytorch.com.my/docs/1.0/overview) - Blogged is a package provides an easy way to create beautiful blog inside your Laravel projects.
+* [Zino](https://zino.giauphan.com.my/1.0/installation) - 🤖 Custom Arduino library made for humans.
+* [Blogged](https://blogged.giauphan.com.my/docs/1.0/overview) - Blogged is a package provides an easy way to create beautiful blog inside your Laravel projects.
 * [WooSignal](https://woosignal.com/docs/api/1.0/overview) - Fastest WooCommerce
 App Templates.
 * [AddChat](https://addchat-docs.classiebit.com/docs/1.0/introduction) - All-in-one multi-purpose Chat Widget For Laravel & Codeigniter websites.
