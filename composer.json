@@ -37,22 +37,22 @@
             "src/Helpers/helpers.php"
         ],
         "psr-4": {
-            "BinaryTorch\\LaRecipe\\": "src/"
+            "Giauphan\\LaRecipe\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "BinaryTorch\\LaRecipe\\Tests\\": "tests/"
+            "Giauphan\\LaRecipe\\Tests\\": "tests/"
         }
     },
     "minimum-stability": "stable",
     "extra": {
         "laravel": {
             "providers": [
-                "BinaryTorch\\LaRecipe\\LaRecipeServiceProvider"
+                "Giauphan\\LaRecipe\\LaRecipeServiceProvider"
             ],
             "aliases": {
-                "LaRecipe": "BinaryTorch\\LaRecipe\\LaRecipe"
+                "LaRecipe": "Giauphan\\LaRecipe\\LaRecipe"
             }
         }
     }
